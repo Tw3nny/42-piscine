@@ -24,7 +24,7 @@ char	*ft_strcpy(char *dest, char *src)
 	dest[c] = '\0';
 	return (dest);
 }
-/*
+
 int	main(void)
 {
 	char	src[] = "ue ue sa dit quoi";
@@ -33,4 +33,4 @@ int	main(void)
 	ft_strcpy(dest, src);
 	printf("Copie : %s\n", dest);
 	return (0);
-}*/
+}

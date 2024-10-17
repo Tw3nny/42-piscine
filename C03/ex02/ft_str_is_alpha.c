@@ -30,7 +30,7 @@ int	ft_str_is_alpha(char *str)
 	}
 	return (1);
 }
-/*
+
 int	main(void)
 {
 	char	str[] = "ISBDFUHkjf8435787gB";
@@ -38,4 +38,4 @@ int	main(void)
 
 	is_alpha = ft_str_is_alpha(str);
 	printf("%d", is_alpha);
-}*/
+}

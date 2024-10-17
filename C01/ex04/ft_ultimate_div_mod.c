@@ -20,7 +20,7 @@ void	ft_ultimate_div_mod(int *a, int *b)
 	*a = *a / *b;
 	*b = temp % *b;
 }
-/*
+
 int	main(void)
 {
 	int	a = 10;
@@ -30,4 +30,4 @@ int	main(void)
 	printf("%d \n", a);
 	printf("%d", b);
 	return (0);
-}*/
+}

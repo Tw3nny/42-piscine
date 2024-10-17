@@ -23,11 +23,11 @@ int	ft_strlen(char *str)
 	}
 	return (c);
 }
-/*
+
 int	main(void)
 {
 	char	str[] = "ue ue  sa dit quoi";
 	int	longueur;
 	longueur = ft_strlen(str);
 	printf("%d", longueur);
-}*/
+}

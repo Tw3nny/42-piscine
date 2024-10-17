@@ -29,7 +29,7 @@ int	ft_str_is_numeric(char *str)
 	}
 	return (1);
 }
-/*
+
 int	main(void)
 {
 	char	str[] = "skjdfajka";
@@ -37,4 +37,4 @@ int	main(void)
 
 	is_numeric = ft_str_is_numeric(str);
 	printf("%d", is_numeric);
-}*/
+}

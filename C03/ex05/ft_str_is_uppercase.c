@@ -30,7 +30,7 @@ int	ft_str_is_uppercase(char *str)
 	}
 	return (1);
 }
-/*
+
 int	main(void)
 {
 	char	str[] = "";
@@ -38,4 +38,4 @@ int	main(void)
 
 	is_uppercase = ft_str_is_uppercase(str);
 	printf("%d", is_uppercase);
-}*/
+}

@@ -22,7 +22,7 @@ int	ft_strlen(char *str)
 	}
 	return (i);
 }
-/*
+
 int	main(void)
 {
 	int	longueur;
@@ -32,4 +32,4 @@ int	main(void)
 	longueur = ft_strlen(chaine_de_caracteres);
 	printf("le nombre de caracteres est %d", longueur);
 	return (0);
-}*/
+}

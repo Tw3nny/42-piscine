@@ -30,7 +30,7 @@ int	ft_str_is_lowercase(char *str)
 	}
 	return (1);
 }
-/*
+
 int	main(void)
 {
 	char	str[] = "sdi7hojdnf";
@@ -38,4 +38,4 @@ int	main(void)
 
 	lowercase = ft_str_is_lowercase(str);
 	printf("%d", lowercase);
-}*/	
+}

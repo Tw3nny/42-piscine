@@ -27,10 +27,10 @@ char	*ft_strupcase(char *str)
 	}
 	return (str);
 }
-/*
+
 int	main(void)
 {
 	char	str[] = "aRbcde";
 
 	printf("%s", ft_strupcase(str));
-}*/
+}

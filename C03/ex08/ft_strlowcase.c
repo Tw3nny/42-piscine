@@ -27,10 +27,10 @@ char	*ft_strlowcase(char *str)
 	}
 	return (str);
 }
-/*
+
 int	main(void)
 {
 	char	str[] = "ISODFBSKODNF";
 	
 	printf("%s", ft_strlowcase(str));
-}*/
+}

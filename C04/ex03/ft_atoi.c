@@ -38,10 +38,10 @@ int	ft_atoi(char *str)
 	}
 	return (resultat * signe);
 }
-/*
+
 int main(int argc, char **argv)
 {
 	if (argc == 2)
 		printf("%i\n", ft_atoi(argv[1]));
 	return (0);
-}*/
+}

@@ -30,7 +30,7 @@ int	ft_str_is_printable(char *str)
 	}
 	return (1);
 }
-/*
+
 int	main(void)
 {
 	char	str[] = "\n";
@@ -38,4 +38,4 @@ int	main(void)
 
 	is_printable = ft_str_is_printable(str);
 	printf("%d", is_printable);
-}*/
+}

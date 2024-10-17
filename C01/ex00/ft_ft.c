@@ -16,7 +16,7 @@ void	ft_ft(int *nbr)
 {
 	*nbr = 42;
 }
-/*
+
 int	main(void)
 
 {
@@ -25,4 +25,4 @@ int	main(void)
 	ft_ft(&nbr);
 	printf("%d", nbr);
 	return (0);
-}*/
+}
